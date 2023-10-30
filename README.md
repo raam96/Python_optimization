@@ -44,9 +44,9 @@ This code is provided for educational and research purposes. You are encouraged 
 
 **USE AT YOUR OWN RISK**.
 
-## Author
+## Author (raam96)
 
-This code was authored by ##raam96.
+This code was authored by raam96.
 
 Feel free to contact the author for any inquiries or additional information.
 
